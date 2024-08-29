@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sdemaude&style=flat-square&color=blue" alt=""/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdemaude&layout=compact)](https://github.com/sdemaude/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdemaude&theme=blueberry&layout=compact)](https://github.com/sdemaude/github-readme-stats)
 
 <!--
 **sdemaude/sdemaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
