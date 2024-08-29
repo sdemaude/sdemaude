@@ -1,20 +1,26 @@
-## Hi there 👋
+<div align="center">
+  
+## Hi, I'm Stéphie 👋
 
-<img src="https://komarev.com/ghpvc/?username=sdemaude&style=flat-square&color=blue" alt=""/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdemaude&theme=blueberry&layout=compact)](https://github.com/sdemaude/github-readme-stats)
+<div>
 
 <!--
-**sdemaude/sdemaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://komarev.com/ghpvc/?username=sdemaude&style=flat-square&color=blue" alt=""/>
 -->
+<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="400" height="400"/>
+
+<!--
+![frog](https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)
+-->
+
+## 💻 My Tech Stack:
+
+[![Bash, C, C++, Git, Vim](https://skillicons.dev/icons?i=bash,c,cpp,git,vim)](https://skillicons.dev)
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sdemaude&show_icons=true&count_private=true&theme=blueberry" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemaude&layout=compact&theme=blueberry" />&nbsp;&nbsp;
+</p>
