@@ -15,7 +15,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Bash, C, C++, Git, Vim](https://skillicons.dev/icons?i=bash,c,cpp,git,vim)](https://skillicons.dev)
+[![Bash, C, C++, Docker, Git, GitHub, Linux, Python, Vim, VScode](https://skillicons.dev/icons?i=bash,c,cpp,docker,git,github,linux,python,vim,vscode)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
