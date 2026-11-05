@@ -6,7 +6,7 @@ I enjoy understanding business needs, working with data, and building practical 
 
 ## 💼 Experience
 
-**Data Analyst — TotalEnergies**  
+**Data Analyst Apprentice — TotalEnergies**
 *February 2025 – March 2027*
 
 - Translating business needs into data-driven solutions.
@@ -17,13 +17,7 @@ I enjoy understanding business needs, working with data, and building practical 
 
 ## 🛠️ Tech Stack
 
-**Data & Business Intelligence**
-- Power BI, Power Query, DAX
-- Power Automate, SharePoint
-- Python, Pandas, NumPy, Scikit-learn
-
-**Programming**
-- C, C++, Python, Bash
-
-**Tools & Environment**
-- Git, GitHub, Linux, VS Code
+- **Data & BI:** Power BI, DAX, Power Query, Power Automate, SharePoint, SQL, Excel
+- **Programming Languages:** C, C++, Python, Bash, JavaScript
+- **Machine Learning:** NumPy, Pandas, Scikit-learn
+- **Systems & Development:** Linux, macOS, Windows, Docker, QEMU, Git, GitHub, VS Code, Valgrind
