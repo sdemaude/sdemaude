@@ -1,18 +1,29 @@
-<div align="center">
-  
-## Hi, I'm Stéphie 👋
+# Hi, I'm Stéphie 👋
 
-<div>
+I'm a Data Analyst with a strong interest in software development, currently combining professional experience at TotalEnergies with software engineering studies at 42.
 
-<!--
-<img src="https://komarev.com/ghpvc/?username=sdemaude&style=flat-square&color=blue" alt=""/>
--->
-<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="400" height="400"/>
+I enjoy understanding business needs, working with data, and building practical technical solutions to improve processes and support decision-making.
 
-<!--
-![frog](https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)
--->
+## 💼 Experience
 
-## 💻 My Tech Stack:
+**Data Analyst — TotalEnergies**  
+*February 2025 – March 2027*
 
-[![Bash, C, C++, Docker, Git, GitHub, Linux, Python, Vim, VScode](https://skillicons.dev/icons?i=bash,c,cpp,docker,git,github,linux,python,vim,vscode)](https://skillicons.dev)
+- Translating business needs into data-driven solutions.
+- Extracting, preparing and analyzing data.
+- Designing interactive dashboards and KPIs with Power BI.
+- Developing reporting solutions and automating processes.
+- Acting as a Data referent for an internal platform.
+
+## 🛠️ Tech Stack
+
+**Data & Business Intelligence**
+- Power BI, Power Query, DAX
+- Power Automate, SharePoint
+- Python, Pandas, NumPy, Scikit-learn
+
+**Programming**
+- C, C++, Python, Bash
+
+**Tools & Environment**
+- Git, GitHub, Linux, VS Code
